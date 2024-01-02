@@ -16,7 +16,7 @@ const config = {
 			assets: 'docs',
 		}),
 		paths: {
-			base: dev ? '': '/jtr-stats-2022'
+			base: dev ? '': '/jtr-stats-2023'
 		},
 
 	}
